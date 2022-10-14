@@ -48,8 +48,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" height=45 width=45 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vs code" height=45 width=45 />    
 </p>
-          
-
-## Badges
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
