@@ -1,6 +1,6 @@
 # Introduction
 
-Please see my pinned post for examples of my work relating to my recent application to the React Roots course!
+Please see my pinned repositories for examples of my work relating to my recent application to the React Roots course!
 
 ## Tools
 
