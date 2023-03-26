@@ -1,6 +1,6 @@
 # Introduction
 
-Coming soon!
+Please see my pinned post for examples of my work relating to my recent application to the React Roots course!
 
 ## Tools
 
