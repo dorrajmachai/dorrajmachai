@@ -3,7 +3,7 @@
 ## Introduction
 Pending!
 
-## Tools I Use 
+## Tools I Use (or Know How to Use...)
 ### Currently On:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=flat-square&logo=linux&logoColor=white)  
