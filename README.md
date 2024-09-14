@@ -23,8 +23,7 @@ Pending!
   - SQL
   - C/++
   - Racket
-### Machines
+### Machines[^1]
   - 16" Asus Vivobook*
-  - Thinkpad X270*
 
-\* *Specs to come at a later time!*
+[^1]: *Specs to come at a later time!*
