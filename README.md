@@ -27,4 +27,4 @@ Pending!
   - 16" Asus Vivobook*
   - Thinkpad X270*
 
-* *Specs to come at a later time!*
+\* *Specs to come at a later time!*
