@@ -28,6 +28,6 @@ Pending!
   - C/++
   - Racket
 ### Machines[^1]
-  - 16" Asus Vivobook*
+  - 16" Asus Vivobook
 
 [^1]: *Specs to come at a later time!*
