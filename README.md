@@ -9,7 +9,7 @@ Pending!
   - Micro
   - VS Code
   - RStudio
-  - [Joe]()
+  - [Joe](https://joe-editor.sourceforge.io)
   - Notepad++
   - Intellij IDEA
   - Eclipse
