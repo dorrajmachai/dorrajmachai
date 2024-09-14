@@ -5,6 +5,7 @@ Pending!
 
 ## Tools I Use 
 ### Currently On:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ### Editors
