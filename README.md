@@ -7,6 +7,7 @@ Pending!
 ### Currently On:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D6?style=flat-square&logo=linux&logoColor=white)
 
 ### Editors
   - Vim
